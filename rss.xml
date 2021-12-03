@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<chanel>
+	<title>Vesti</title>
+	<link>https://marijanamilanovic.github.io/sugarRush/index.html</link>
+	<description>RSS za vesti</description>
+	<item>
+		<title>Uskoro na novoj lokaciji</title>
+		<link>https://marijanamilanovic.github.io/sugarRush/index.html</link>
+		<description>Uskoro slatkoteka na Novom Beogradu</description>
+	</item>	
+</chanel>
+</rss>
