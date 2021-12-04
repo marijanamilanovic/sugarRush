@@ -1,6 +1,6 @@
 *{
-    margin: 0px;
-    padding: 0px;
+	margin: 0px;
+	padding: 0px;
 	box-sizing: border-box;
 }
 body{
@@ -19,13 +19,13 @@ header{
 	top: 0px;
 } 
 ul{
-    list-style-type: none;
+	list-style-type: none;
 }
 a{
-    text-decoration: none;
+	text-decoration: none;
 	font-size: 19px;
-    color: #f73ecd;
-    font-weight: bolder;
+	color: #f73ecd;
+	font-weight: bolder;
 }
 #meni{
 	width: 50%;
@@ -38,11 +38,11 @@ a{
 }
 
 #meni ul .active a, #meni ul li a:hover{
-    color: #c4fbff;
+	color: #c4fbff;
 	transition-duration: 0.2s;
 }
 .cleaner{
-    clear: both;
+	clear: both;
 }
 #pozadina{
 	width: 100%;
@@ -290,8 +290,6 @@ footer{
 #autor .tekst span{
 	color: #8684f5;
 }
-
-
 @keyframes logoAnimation {
 	0% {
 		transform: rotate(0deg);
