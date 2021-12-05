@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-<chanel>
+<channel>
 	<title>Vesti</title>
 	<link>https://marijanamilanovic.github.io/sugarRush/index.html</link>
 	<description>RSS za vesti</description>
@@ -9,5 +9,5 @@
 		<link>https://marijanamilanovic.github.io/sugarRush/index.html#vesti</link>
 		<description>Uskoro Sugar Rush na Novom Beogradu</description>
 	</item>	
-</chanel>
+</channel>
 </rss>
