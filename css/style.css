@@ -279,7 +279,7 @@ footer{
 	margin: 20px auto;
 	margin-bottom: 80px;
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 }
 #autor .slika{
 	width: 30%;
