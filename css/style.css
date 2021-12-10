@@ -243,6 +243,10 @@ img{
 	border: 1px solid #8684f5;
 	padding: 10px;
 }
+#forma #btnPoruka:hover{
+	background-color: #f73ecd;
+	font-weight: 700;
+}
 form{
 	width: 100%;
 }
@@ -263,13 +267,17 @@ footer{
 .footer{
 	padding: 10px;
 }
-.footer h4{margin-bottom: 10px;
+.footer h4{
+	margin-bottom: 10px;
 }
 .footer p{
 	margin-bottom: 5px;
 }
 .footer a{
 	margin: 10px;
+}
+.footer a:hover{
+	color: #8684f5;
 }
 .footer a img{
 	width: fit-content;
